@@ -1,0 +1,6 @@
+sub x - Output data structure to stderr
+
+Usage:
+  BEGIN { require 'sub_x.pm' };
+  x 'label', $dataref;
+
